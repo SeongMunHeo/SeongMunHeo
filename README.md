@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<br/>
-<table><tr><td valign="top" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=powedonk123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td></tr>
-<table>
-	
 <h3 align='left'>🛠 Tech Stack</h3>
 <p align='left'>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -21,6 +15,11 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
 </p>
+
+<table><tr><td valign="top" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=powedonk123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td></tr>
+<table>
 
 ---
 
