@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<div align=left>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpowedonk123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 <br/>
 <table><tr><td valign="top" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=powedonk123&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -28,6 +23,12 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/>
 </p>
+
+<div align=left>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpowedonk123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <!--
 **powedonk123/powedonk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
